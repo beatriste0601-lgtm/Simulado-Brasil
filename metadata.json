@@ -1,0 +1,6 @@
+{
+  "name": "SimulaBrasil - Portal de Simulados e Provas",
+  "description": "Plataforma 100% gratuita de simulados interativos para o Ensino Fundamental e Médio (ENEM, OBMEP, Prova Paulista, SAEB, Fuvest, OBA) com gabarito comentado, modelo TRI e persistência local sem login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
